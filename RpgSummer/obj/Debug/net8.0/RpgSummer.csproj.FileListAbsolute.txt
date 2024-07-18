@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\RpgSummer\bin\Debug\net8.0\RpgSummer.exe
+C:\Users\PC\source\repos\RpgSummer\bin\Debug\net8.0\RpgSummer.deps.json
+C:\Users\PC\source\repos\RpgSummer\bin\Debug\net8.0\RpgSummer.runtimeconfig.json
+C:\Users\PC\source\repos\RpgSummer\bin\Debug\net8.0\RpgSummer.dll
+C:\Users\PC\source\repos\RpgSummer\bin\Debug\net8.0\RpgSummer.pdb
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.AssemblyInfo.cs
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.dll
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\refint\RpgSummer.dll
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.pdb
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\RpgSummer.genruntimeconfig.cache
+C:\Users\PC\source\repos\RpgSummer\obj\Debug\net8.0\ref\RpgSummer.dll
